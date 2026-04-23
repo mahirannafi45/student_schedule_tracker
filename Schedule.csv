@@ -1,0 +1,16 @@
+day	course	time	room	type
+Monday	HUM 4261	8:00-9:15	603	Lecture
+Monday	BTM 4203	9:15-10:30	603	Lecture
+Monday	CSE 4281	11:45-1:00	203	Lecture
+Tuesday	BTM 4203	9:15-10:30	603	Lecture
+Tuesday	CSE 4282	11:45-1:00	ICT Lab 3	Lab
+Wednesday	HUM 4261	8:00-9:15	203	Lecture
+Wednesday	BTM 4201	9:15-10:30	603	Lecture
+Wednesday	CSE 4282	11:45-1:00	ICT Lab 3	Lab
+Thursday	MATH 4263	8:00-9:15	603	Lecture
+Thursday	BTM 4201	10:30-11:45	603	Lecture
+Thursday	MATH 4261	11:45-1:00	603	Lecture
+Thursday	CSE 4281	2:30-3:45	203	Lecture
+Friday	MATH 4264	8:00-9:15	ICT Lab 3	Lab
+Friday	MATH 4263	10:30-11:45	604	Lecture
+Friday	MATH 4261	11:45-1:00	604	Lecture
